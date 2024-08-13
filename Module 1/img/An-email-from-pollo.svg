@@ -1,0 +1,146 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1024px" height="700px" viewBox="0 0 1024 700">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="0.0784313725490196" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="3,3" result="result3"/>
+
+<feOffset dx="3.999999931542916" dy="3.999999931542916" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+</filter>
+
+<g id="mod_1_ai_Layer_1__Path__73_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 932.95 667
+L 932.95 5 5.95 5 5.95 667 932.95 667 Z"/>
+</g>
+
+<g id="Layer0_6_FILL">
+<path fill="#D6D7D8" stroke="none" d="
+M 760.95 88.45
+L 760.95 87.35 78.6 87.35 78.6 88.45 760.95 88.45 Z"/>
+</g>
+
+<g id="Layer0_7_FILL">
+<path fill="#00BCEB" stroke="none" d="
+M 80.8 108.8
+Q 71 118.6 71 132.5 71 146.4 80.8 156.2 90.6 166 104.5 166 118.4 166 128.2 156.2 138 146.4 138 132.5 138 118.6 128.2 108.8 118.4 99 104.5 99 90.6 99 80.8 108.8 Z"/>
+</g>
+
+<g id="Symbol_1_0_Layer0_0_FILL">
+<path fill="#02BEEB" stroke="none" d="
+M 131.8 74
+L 131.8 0 0 0 0 74 131.8 74 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 114.05 196
+L 245.85 196 245.85 270 114.05 270 114.05 196 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 40.95,19) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, -5.95,-5) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#mod_1_ai_Layer_1__Path__73_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 115.5,86.95) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="313.15" height="28.55" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.9" baseline-shift="0%" font-family="Arial" font-size="22" fill="#000000" xml:space="preserve">POLLO &lt;service@@polo.com&gt;</tspan></text>
+</g>
+
+<g id="b04a2d99_9b19_4d3f_8c2d_c98e000f02ae" transform="matrix( 1, 0, 0, 1, 37.6,23.8) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="172.3" height="31.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="22.65" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">Security Notice</tspan></text>
+</g>
+
+<g id="FL_3f16a067_1b4e_4e0d_8725_526e09ba6b6e" transform="matrix( 1, 0, 0, 1, 115.05,290.25) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-2" y="-2" width="769.9" height="262.6" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="0" y="22.65" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">Dear Ms Patel</tspan><tspan x="0" y="50.6" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve"></tspan><tspan x="0" y="78.55" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">As a precautionary measure we restricted access to your Account </tspan><tspan x="0" y="106.5" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">until you validate has been changed. To prevent further irregular </tspan><tspan x="0" y="134.45" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">activity, you will be unable to access your account until this issue has </tspan><tspan x="0" y="162.4" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">been resolved</tspan><tspan x="0" y="190.35" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve"></tspan><tspan x="0" y="218.3" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">To fix security info, click below to reactivate your account. </tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 115,115.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,-1.15) ">
+<clipPath id="Mask_Mask_4">
+<rect x="-2" y="-2" width="181.95" height="23.8" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_4)" writing-mode="lr"><tspan x="0" y="16.05" baseline-shift="0%" font-family="Arial" font-size="17.75" fill="#000000" fill-opacity="0.8980392156862745" xml:space="preserve">Tue  01/02/2021 14:00</tspan></text>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -40.95,-19) ">
+<use xlink:href="#Layer0_6_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -40.95,-19) ">
+<use xlink:href="#Layer0_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 55.75,98.6) ">
+<clipPath id="Mask_Mask_5">
+<rect x="-2" y="-2" width="20.85" height="31.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_5)" writing-mode="lr"><tspan x="0" y="22.65" baseline-shift="0%" font-family="Arial" font-size="25" fill="#FFFFFF" xml:space="preserve">P</tspan></text>
+</g>
+
+<g id="FL_4c18d853_c1f6_4dbb_b966_6cbd9d2bbab6" transform="matrix( 1, 0, 0, 1, 115.5,138.45) ">
+<clipPath id="Mask_Mask_6">
+<rect x="-2" y="-2" width="66.2" height="23.8" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_6)" writing-mode="lr"><tspan x="0" y="16.05" baseline-shift="0%" font-family="Arial" font-size="17.75" fill="#000000" xml:space="preserve">To: You</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 116.05,524.6) ">
+<clipPath id="Mask_Mask_7">
+<rect x="-2" y="-2" width="725.95" height="31.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_7)" writing-mode="lr"><tspan x="0" y="22.65" baseline-shift="0%" font-family="Arial" font-size="25" fill="#3D67EA" xml:space="preserve">http://123contactform.com/contact-form-@apollo.234.54674.html </tspan></text>
+</g>
+
+<g id="FL_2d0618b5_c252_45cb_a776_50a196f2f5d8" transform="matrix( 1, 0, 0, 1, 117.05,566.6) ">
+<clipPath id="Mask_Mask_8">
+<rect x="-2" y="-2" width="247.75" height="31.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_8)" writing-mode="lr"><tspan x="0" y="22.65" baseline-shift="0%" font-family="Arial" font-size="25" fill="#000000" xml:space="preserve">@pollo Support Team</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 114.05,196) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 126.05,215.25) ">
+<clipPath id="Mask_Mask_9">
+<rect x="-2" y="-2" width="116.75" height="44.25" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_9)" writing-mode="lr"><tspan x="0" y="32.6" baseline-shift="0%" font-family="Arial" font-size="36" fill="#FFFFFF" xml:space="preserve">@pollo</tspan></text>
+</g>
+</g>
+</svg>
